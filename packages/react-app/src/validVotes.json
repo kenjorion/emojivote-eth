@@ -1,0 +1,32 @@
+{
+  "0x4E217add4879B50Eaf85E9371040A053b7390f52": {
+    "address": "0x4E217add4879B50Eaf85E9371040A053b7390f52",
+    "vote": "🐮",
+    "balance": 0,
+    "timestamp": "1620290275575"
+  },
+  "0x89D19911762B7AF9ecbbB88474aF9B550f9A0782": {
+    "address": "0x89D19911762B7AF9ecbbB88474aF9B550f9A0782",
+    "vote": "🦁",
+    "balance": 27000,
+    "timestamp": "1620315417648"
+  },
+  "0xF6E4d497119B8e02Ab728a9CbC34626D452bb121": {
+    "address": "0xF6E4d497119B8e02Ab728a9CbC34626D452bb121",
+    "vote": "🐶",
+    "balance": 0,
+    "timestamp": "1620289654457"
+  },
+  "0xD63006d7CCBBa36169f3B737a662244A58F300c4": {
+    "address": "0xD63006d7CCBBa36169f3B737a662244A58F300c4",
+    "vote": "🐭",
+    "balance": 25000,
+    "timestamp": "1620306683805"
+  },
+  "0xD754B1B4A42dB921B760d1ff0b216D07C82742e6": {
+    "address": "0xD754B1B4A42dB921B760d1ff0b216D07C82742e6",
+    "vote": "🐭",
+    "balance": 0,
+    "timestamp": "1620306779718"
+  }
+}
